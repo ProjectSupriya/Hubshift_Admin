@@ -1,0 +1,69 @@
+/* add task style */
+
+.Buttonstyle {
+    background-color: #01c1eb !important;
+}
+
+.FileUpload1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.FileUploadBox{
+    margin: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.FileButton{
+
+    background-color: #E0DCDC !important;
+    width: 150px;
+    color: #000000 !important;
+    font-weight: 600;
+  
+}
+
+.FileButton:hover{
+    background-color: #E0DCDC !important;
+    transition: .5s ;
+    box-shadow: 30px;
+
+}
+
+.UploadButton{
+    background-color: #01c1eb !important;
+    font-size: 18px;
+    width: 150px;
+
+}
+
+/* Addhourlytable */
+
+.Addhourlytable{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* task style */
+
+.Addtaskcapturebtn{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items:flex-start;
+}
+
+.Addtaskcapturebtn2{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}

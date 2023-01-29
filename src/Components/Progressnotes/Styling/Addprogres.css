@@ -1,0 +1,24 @@
+.Progressfileupload{
+    margin: 10px;
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Progressfilebutton{
+
+    background-color: #E0DCDC !important;
+    width: 150px;
+    color: #000000 !important;
+    font-weight: 600;
+  
+}
+
+.Progressfilebutton:hover{
+    background-color: #E0DCDC !important;
+    transition: .5s ;
+    box-shadow: 30px;
+
+}

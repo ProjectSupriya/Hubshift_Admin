@@ -1,0 +1,19 @@
+/* chart style */
+.Boxsty{
+ 
+    display: flex;
+    justify-content: flex-end;
+    align-items:flex-end;
+}
+.Button{
+    /* margin: 10px; */
+    background-color: #01c1eb !important;
+
+}
+
+.Gridsty{
+
+    display: flex;
+    justify-content: flex-end;
+    align-items:flex-end;
+}
